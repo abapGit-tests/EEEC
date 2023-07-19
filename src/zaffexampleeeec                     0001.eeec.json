@@ -1,0 +1,15 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "abapGit Test for EEEC",
+    "originalLanguage": "en"
+  },
+  "consumerClass": "ZCL_AFF_EXAMPLE_EEEC",
+  "descriptorClass": "/IWXBE/CL_GENERIC_CONS_DESCRIP",
+  "eventTypes": [
+    {
+      "type": "sap.eee.iwxbe.testproducer.v1.Event.Created.v1",
+      "entityName": "ZD_Event_Created_v1"
+    }
+  ]
+}
